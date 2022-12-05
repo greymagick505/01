@@ -7,6 +7,7 @@
     <link rel="icon" type="image/x-icon" href="https://backoffice.stgatpwc.pwc.com/images/favicon.png">
     <!-- Primary Meta Tags -->
     <title>Berkah88: Agen Situs Resmi Judi Bola Sbobet Online Terpercaya #1</title>
+    <meta name="google-site-verification" content="egQzD2eVbOhOhTbKubsqYsfX2zMhbz1GhJm3hAo2oTg" />
     <meta name="title" content="Berkah88: Agen Situs Resmi Judi Bola Sbobet Online Terpercaya #1">
     <meta name="description" content="Berkah88 Merupakan Agen Situs Resmi Judi Bola Sbobet Online Terpercaya #1 Indonesia Uang Asli Dengan Game Permainan Sportsbook Deposit Pulsa Tanpa Potongan Terbaik.">
     <meta name="keywords" content="Berkah88, judi bola, agen bola, situs judi bola, judi online">
