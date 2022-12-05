@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Crawl-delay: 10
+
+Sitemap: http://bots.ideo.com/sitemap.xml
